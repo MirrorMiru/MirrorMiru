@@ -6,5 +6,5 @@
 ![Cool](https://github.com/MirrorMiru/MIRU/blob/main/Cool.png)
 
 ### My games
-[![AboveSteelBars](https://github.com/MirrorMiru/MIRU/blob/main/Untitled104_20210918214939_10.png)](https://mirrormiru.github.io/AboveSteelBarsV1.1/)
+[![AboveSteelBars](https://github.com/MirrorMiru/MIRU/blob/main/Untitled104_20210918214939_10.png)](https://mirrormiru.github.io/AboveSteelBarsV1.2/)
 
