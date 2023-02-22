@@ -6,6 +6,7 @@
 
 ![Sammy1](https://github.com/MirrorMiru/imagehost/blob/main/ezgif.com-gif-maker%20(65).gif?raw=true)
 ![Sammy2](https://github.com/MirrorMiru/imagehost/blob/main/ezgif.com-gif-maker%20(66).gif?raw=true)
+![Sammy3](https://github.com/MirrorMiru/imagehost/blob/main/ezgif.com-gif-maker%20(67).gif?raw=true)
 
 ### My games
 [![AboveSteelBars](https://github.com/MirrorMiru/MIRU/blob/main/Untitled104_20210918214939_10.png)](https://mirrormiru.github.io/ASB4/)
